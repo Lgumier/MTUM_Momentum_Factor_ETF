@@ -12,21 +12,6 @@ We evaluate return patterns, momentum construction, statistical properties, and 
 
 ---
 
-## Repository Structure
-
-MTUM_Momentum_Factor_ETF/
-│
-├── Code/
-│ └── MTUM_analysis.ipynb ← Jupyter notebook with the full momentum analysis
-│
-├── Report/
-│ └── MTUM_Presentation.pdf ← Final group slides (summary of key findings)
-│
-├── LICENSE ← MIT license
-├── README.md ← This file
-
----
-
 ## How to Run the Analysis
 
 You can run the notebook in one of two ways:
