@@ -3,8 +3,6 @@
 > Final project – BAFI3252: Portfolio Management & Factor Models  
 > RMIT University | 2025 | Group 6
 
-[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lgumier/MTUM_Momentum_Factor_ETF/blob/main/Code/MTUM_analysis.ipynb)
-
 ---
 
 ## Overview
@@ -34,7 +32,7 @@ MTUM_Momentum_Factor_ETF/
 You can run the notebook in one of two ways:
 
 - **Colab**:  
-  Click the badge [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lgumier/MTUM_Momentum_Factor_ETF/blob/main/notebooks/MTUM_analysis.ipynb)
+  Click the badge [![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Lgumier/MTUM_Momentum_Factor_ETF/blob/main/Code/MTUM_analysis.ipynb)
 
 ---
 
